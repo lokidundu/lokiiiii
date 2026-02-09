@@ -126,8 +126,8 @@
     <div class="book">
         <div class="page">
             <div class="front cover">
-                <h1 style="color:white; text-shadow: 2px 2px 5px black;">A Message for You🤍</h1>
-                <p style="color:white; text-shadow: 2px 2px 5px black;">2025.<br />SHOBHIT Special Edition</p>
+                <h1 style="color:white; text-shadow: 2px 2px 5px black;">A Message for You my dear wife</h1>
+                <p style="color:white; text-shadow: 2px 2px 5px black;">2025.<br />with your love your sweetheart</p>
             </div>
             <div class="back">
                 <h2>A Special Beginning ❤️</h2>
@@ -175,7 +175,7 @@
             <div class="back final-valentine">
                 <h2>🌹 Always & Forever 🌹</h2>
                 <p>No matter where life takes us,<br />my heart will always choose you.</p>
-                <p style="font-size: 0.8em; margin-top: 20px;">Made with love by Shobhit Dev</p>
+                <p style="font-size: 0.8em; margin-top: 20px;">Made with love by your lokii</p>
             </div>
         </div>
     </div>
